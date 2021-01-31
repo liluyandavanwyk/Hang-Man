@@ -1,5 +1,5 @@
 # Hang-Man Game
-This is a legendary hangman game to play it extract the zip folder after downloading and open the index HTML to run on any of your favourite browser enjoy 
+This is a legendary hangman game to play it extract the zip folder after downloading and open the index HTML to run on any of your favourite browser enjoy.
 
 Project Description
 
